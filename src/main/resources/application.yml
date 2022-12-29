@@ -1,0 +1,25 @@
+server:
+  port: 8022
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vueadmin?useSSL=true&serverTimeZone=GMT%2b8
+    username: root
+    password: root
+  # redis连接
+  redis:
+    host: 192.168.116.130
+    port: 6379
+    database: 0
+    expire: 60000
+    connect-timeout: 10000
+    # 在springboot中操作redis的客户端 jedis lettuce
+    client-type: lettuce
+mybatis-plus:
+  mapper-locations: classpath:mapper/*Mapper.xml
+  type-aliases-package: com.kim.entity
+kim:
+  jwt:
+    header: Authorization
+    expire: 604800
+    secret: ji8n3439n439n43ld9ne9343fdfer49h
