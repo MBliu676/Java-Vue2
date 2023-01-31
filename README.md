@@ -1,5 +1,9 @@
 # Java-Vue2
 
+## 项目介绍
+前端使用：Vue、ElementUI、axios、qs、javaScript、jquery等技术
+后端使用：springboot搭建项目，SpringSecurity作为安全验证、mybatis-plus用来连接数据库简化数据库更改操作、mysql提供数据、JWT生成token、Redis作为缓存减少数据库的压力
+
 ## 登陆页面
 
 ![image](https://user-images.githubusercontent.com/99958412/215655624-ff3c483a-19c4-4f50-b742-c1191f43ae42.png)
