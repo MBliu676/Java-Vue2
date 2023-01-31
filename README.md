@@ -3,7 +3,7 @@
 ## 项目介绍
 前端使用：Vue、ElementUI、axios、qs、javaScript、jquery等技术
 
-后端使用：springboot搭建项目，SpringSecurity作为安全验证、mybatis-plus用来连接数据库简化数据库更改操作、mysql提供数据、JWT生成token、Redis作为缓存减少数据库的压力
+后端使用：springboot搭建项目，SpringSecurity作为安全验证、mybatis-plus用来连接数据库简化数据库更改操作、mysql提供数据、JWT生成token、Redis作为缓存减少数据库的压力、kaptcha生成验证码
 
 ## 登陆页面
 
