@@ -60,7 +60,7 @@
 
 ### 修改密码
 
-![image](https://user-images.githubusercontent.com/99958412/215656133-8814d313-2869-4623-a93a-f0d241f076d3.png)
+![image](https://user-images.githubusercontent.com/99958412/215656398-790d6b8d-75ce-45c9-9f5c-a374d4b60856.png)
 
 ![image](https://user-images.githubusercontent.com/99958412/215656169-0e1586a8-c612-4c63-8a0b-3bb70f4e12a1.png)
 
